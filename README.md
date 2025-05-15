@@ -18,7 +18,7 @@
 ## Lisensi
 
 Aplikasi ini dirilis di bawah lisensi MIT.  
-Silakan lihat file [LICENSE] untuk informasi lebih lanjut.
+Silakan lihat file `LICENSE` untuk informasi lebih lanjut.
 
 ---
 
